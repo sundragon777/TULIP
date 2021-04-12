@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.dragon.studio.study"
+        applicationId "com.dragon.studio.plandy"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

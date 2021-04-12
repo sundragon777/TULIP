@@ -1,4 +1,4 @@
-package com.dragon.studio.study
+package com.dragon.studio.plandy
 
 import org.junit.Test
 

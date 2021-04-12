@@ -1,4 +1,4 @@
-package com.dragon.studio.study
+package com.dragon.studio.plandy
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
